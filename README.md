@@ -3,7 +3,7 @@
 <div style="font-family: 'Source Sans Pro', sans-serif">
 
 <div align="center">
-<img src="assets/gifs/landscape.gif" width="100%">
+<img src="assets/gifs/landscape.gif" style="width: 100%; height: auto; display: block;">
 
 <p style="font-size: 6px;">GIF from 1041uuu on Patreon.</p>
 </div>
