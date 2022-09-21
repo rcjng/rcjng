@@ -1,17 +1,16 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source%20Sans%20Pro">
 
 <div style="font-family: 'Source Sans Pro', sans-serif">
-<div align="center">
 
+<div align="center">
 <img src="assets/gifs/duel.gif" width="100%">
 
-<p style="font-size: 10px;">
+<p style="font-size: 6px;">
 GIF created by <a href="https://www.deviantart.com/rgbfumes/art/Pixel-samurai-dueling-attack-553858011">RGBFumes</a> on DeviantArt.
 </p>
+</div>
 
 <br>
-
-</div>
 
 # <div style="font-weight:900;">Robert Jiang 🩸</div>
 
