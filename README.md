@@ -3,11 +3,9 @@
 <div style="font-family: 'Source Sans Pro', sans-serif">
 
 <div align="center">
-<img src="assets/gifs/duel.gif" width="100%">
+<img src="assets/gifs/landscape.gif" width="100%">
 
-<p style="font-size: 6px;">
-GIF created by <a href="https://www.deviantart.com/rgbfumes/art/Pixel-samurai-dueling-attack-553858011">RGBFumes</a> on DeviantArt.
-</p>
+<p style="font-size: 6px;">GIF from 1041uuu on Patreon.</p>
 </div>
 
 <br>
