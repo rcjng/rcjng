@@ -80,9 +80,9 @@
 
 ## **Stats 📊**
 
-![rcjng's GitHub stats](github-readme-stats-2e7zxoyi6-rcjng.vercel.app/api?username=rcjng&show_icons=true&count_private=true&theme=cobalt)
+![rcjng's GitHub stats](https://github-readme-stats-2e7zxoyi6-rcjng.vercel.app/api?username=rcjng&show_icons=true&count_private=true&theme=cobalt)
 
-![rcjng's Most Used Languages](github-readme-stats-2e7zxoyi6-rcjng.vercel.app/api/top-langs?username=rcjng&show_icons=true&locale=en&theme=cobalt&layout=compact)
+![rcjng's Most Used Languages](https://github-readme-stats-2e7zxoyi6-rcjng.vercel.app/api/top-langs?username=rcjng&show_icons=true&locale=en&theme=cobalt&layout=compact)
 
 ![rcjng's GitHub Streak](https://streak-stats.demolab.com?user=rcjng&theme=cobalt&hide_border=true&date_format=%5BY.%5Dn.j&background=193448)
 </div>
