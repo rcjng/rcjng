@@ -8,20 +8,15 @@
 <p style="font-size: 6px;">GIF from 1041uuu on Patreon.</p>
 </div>
 
-<br>
-
 # <div style="font-weight:900;">🩸Robert Jiang</div>
 
 ### <u>Hi👋!</u>
 
 I am a *Software Engineer* @ [Epic]([Epic](https://www.epic.com/software/)) since April 2023.
-<br>
 
 ## **📖 Current Interests**
 - Learning Gen AI and Agentic AI
 - Learning React Native
-
-<br>
 
 ## **🧰 Languages & Tools**
 **Frontend:** TypeScript, JavaScript, HTML, CSS/Sass, React, Redux
@@ -35,10 +30,6 @@ I am a *Software Engineer* @ [Epic]([Epic](https://www.epic.com/software/)) sinc
 **Tools & Workflow:** Git, Jira, Confluence
 
 **Mobile:** Android (Java, Kotlin), iOS (Objective-C, Swift)
-
-<br>
-<br>
-<br>
 
 ## **🔗 Socials**
 <div align="left">
@@ -58,9 +49,6 @@ I am a *Software Engineer* @ [Epic]([Epic](https://www.epic.com/software/)) sinc
       src="assets/images/phone.png"
       alt="Phone" width="24px" height="24px"/></a> 
 </div>
-
-<br>
-<br>
 
 ## **📊 Stats**
 
