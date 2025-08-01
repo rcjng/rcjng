@@ -49,10 +49,10 @@ I am a...
 </div>
 
 ## **📊 Stats**
-
-![rcjng's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcjng&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=cobalt)
-
-![rcjng's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rcjng&show_icons=true&locale=en&theme=cobalt&layout=compact)
-
+<div align="center">
+  
 ![rcjng's GitHub Streak](https://streak-stats.demolab.com?user=rcjng&theme=cobalt&hide_border=true&date_format=%5BY.%5Dn.j&background=193448)
 
+![rcjng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcjng&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=cobalt&hide_border=true)
+![rcjng's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rcjng&show_icons=true&locale=en&theme=cobalt&hide_border=true)
+</div>
