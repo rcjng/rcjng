@@ -39,13 +39,13 @@ I am a...
 <div align="left">
   <a href="https://www.linkedin.com/in/rcjng/" target="blank" style="padding-right:11px;" ><img align="center"
       src="https://img.icons8.com/?size=160&id=67570&format=png"
-      alt="LinkedIn" width="80px" height="80px" /></a>
+      alt="LinkedIn" width="80px" height="80px" />linkedin/in/rcjng</a>
   <a href="https://www.hackerrank.com/rcjng/" target="blank" style="padding-right:11px;"><img align="center"
       src="https://img.icons8.com/?size=96&id=bcdiBt8pFXfZ&format=png"
-      alt="Hackerrank" width="80px" height="80px" /></a>
-  <a href="https://leetcode.com/u/rcjiang/" target="blank" style="padding-right:11px;"><img align="center"
+      alt="Hackerrank" width="80px" height="80px" />hackerrank/rcjng</a>
+  <a href="https://leetcode.com/u/rcjng/" target="blank" style="padding-right:11px;"><img align="center"
       src="https://img.icons8.com/?size=160&id=fiCYSJOnXi7E&format=png"
-      alt="LeetCode" width="80px" height="80px" /></a>
+      alt="LeetCode" width="80px" height="80px" />leetcode/u/rcjng</a>
 </div>
 
 ## **📊 Stats**
