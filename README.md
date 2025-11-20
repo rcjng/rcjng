@@ -9,34 +9,14 @@
 
 # <div style="font-weight:900;">🐼 Robert (Rob) Jiang</div>
 
-### <u>Hi👋!</u>
+👋 I'm Rob, <strong>a Software Engineer based in the San Francisco Bay Area</strong>.
 
-I am a...
-- 🧑‍💻 Software Engineer @ 🔮 [Palantir](https://www.palantir.com/), based in the 🏞️ Bay Area
-- 🤓 CSE Alum (March 2023!) + Regents Scholar @ 🧜‍♂️ [UC San Diego](https://cse.ucsd.edu/)
-- 🚀 Aspiring (and ongoing) T-shaped 📱 mobile and 🖥️ full-stack developer
-
-## **🤖 Languages & Tools**
-
-- **Frontend:** TypeScript, JavaScript, React, Redux, HTML, CSS/Sass
-  
-- **Backend:** REST APIs, SQL, C#, Java, ASP.NET Core, Python
-
-- **Testing & Tools:** Jest, Enzyme, Git, GitHub Actions, Chrome DevTools, Webpack
-
-- **Core Competencies:** Accessibility (WCAG), Internationalization (i18n), Responsive Design, Performance Optimization, Cross-Platform Compatibility, Usability
-
-## **📖 Interests & Hobbies**
-
-- 🍜 Cooking!
-- 🏊‍♂️ Swimming + 🏋️‍♂️ Lifting
-- 🌠 Star Wars (literally anything Star Wars)
-- 🖥️ Games (PC; variety except MOBA and RTS 🙅‍♂️)
-- ⚛️ Learning new technologies and patterns (e.g., Ionic + Capacitor, Next.js, Electron)
+I'm currently [@Palantir](https://www.github.com/palantir), previously was [@Epic](https://www.github.com/epic-open-source), and prior to that, studied computer science [@UCSD](https://www.github.com/ucsd). 
 
 ## **🔗 Links**
 
 <div align="left">
+  <a href="https://rcjng.com/" target="blank" style="padding-right:11px;" >🌐 rcjng.com</a>
   <a href="https://www.linkedin.com/in/rcjng/" target="blank" style="padding-right:11px;" ><img align="center"
       src="https://img.icons8.com/?size=160&id=67570&format=png"
       alt="LinkedIn" width="80px" height="80px" />linkedin/in/rcjng</a>
@@ -48,7 +28,7 @@ I am a...
       alt="LeetCode" width="80px" height="80px" />leetcode/u/rcjng</a>
 </div>
 
-## **📊 Stats**
+## **📊 GitHub Stats**
 <div align="center">
   
 ![rcjng's GitHub Streak](https://streak-stats.demolab.com?user=rcjng&theme=cobalt&hide_border=true&date_format=%5BY.%5Dn.j&background=193448)
